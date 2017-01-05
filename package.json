@@ -1,0 +1,12 @@
+{
+  "name": "rollup-sourcemap-file",
+  "author": "gnomesley",
+  "main": "out.js",
+  "scripts": {
+    "build": "node rollup.js"
+  },
+  "devDependencies": {
+    "rollup": "^0.40.0",
+    "rollup-plugin-json": "^2.1.0"
+  }
+}
